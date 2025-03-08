@@ -53,10 +53,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaurRitika&layout=compact&theme=radical" />
 </p>
 
-### **📈 GitHub Activity Graph**
+### 📈 GitHub Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=GaurRitika&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GaurRitika&theme=react-dark" />
 </p>
+
 
 ---
 
