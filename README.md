@@ -60,14 +60,6 @@
 
 ---
 
-## 📊 **Skills & Proficiency**
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GaurRitika&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GaurRitika&theme=radical" />
-</p>
-
----
-
 ## 🎯 **What I Love Doing?**
 - 💻 **Building Scalable Web Applications**  
 - 🚀 **Exploring Blockchain & Smart Contracts**  
@@ -78,7 +70,7 @@
 ---
 
 ## 📞 **Connect With Me**
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/ritika-gaur-b40b4b298/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" />
   </a>
@@ -92,4 +84,4 @@
 
 ---
 
-⭐ **If you like my work, feel free to give it a star!** ⭐  
+⭐ **If you like my work, feel free to give it a star!** ⭐
