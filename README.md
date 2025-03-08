@@ -1,73 +1,87 @@
 ![logo](https://github.com/kuritika098/kuritika098/blob/main/Screenshot%202024-05-08%20133310.png)
 
 <h1 align="center">Hi 👋, I'm Ritika Gaur</h1>
-<h3 align="center">🚀 Full Stack Web & Blockchain Developer | Passionate about Innovation & Problem-Solving</h3>
+<h3 align="center">A Passionate Full Stack & Blockchain Developer from India</h3>
 
-<img align="right" width="450" src="https://img.freepik.com/free-vector/software-programmer-girl-office-work-vector-design_107791-20453.jpg?semt=ais_hybrid">
-
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=GaurRitika&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
+<p align="center">
+  <img src="https://img.freepik.com/free-vector/software-programmer-girl-office-work-vector-design_107791-20453.jpg?semt=ais_hybrid" width="500"/>
 </p>
 
-🌟 **About Me:**  
-- 💻 **Full Stack Developer & Blockchain Enthusiast**  
-- 🌱 Currently Learning **Solidity, Smart Contracts & Advanced Web3 Development**  
-- 🔥 **React, Node.js, MongoDB, Express.js, and TailwindCSS** are my core technologies  
-- 💡 Passionate about **Building Scalable Web & Decentralized Applications (DApps)**  
-- 💬 Ask me about **React.js, JavaScript, Web3, Smart Contracts, and UI/UX**  
-- ⚡ Fun Fact: **I think I have a great sense of humor!** 😄  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=GaurRitika&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+---
+
+## 🌟 **About Me**
+- 🔥 Passionate about **Full Stack & Blockchain Development**  
+- 🛠️ Specializing in **React.js, Node.js, MongoDB, Solidity, Smart Contracts**  
+- 🌱 Currently Learning **Web3.js, Ethereum Development**  
+- 💬 Ask me about **React, JavaScript, Bootstrap, Tailwind CSS, Solidity**  
+- 📫 Contact me at **ritika.gaur2005@gmail.com**  
+- ⚡ Fun Fact: **I think I have a great sense of humor!** 😆  
 
 ---
 
 ## 🚀 **Tech Stack & Tools**
-### **Frontend**  
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)  
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap)  
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)  
+| **Frontend**  | **Backend**  | **Database** | **Blockchain** | **DevOps & Tools** |
+|--------------|------------|-------------|---------------|-----------------|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/> HTML | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/> Node.js | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/> MongoDB | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" width="40"/> Solidity | <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/> Postman |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/> CSS | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"/> Express.js | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/> MySQL | <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Ethereum-icon-purple.svg" width="40"/> Ethereum | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" width="40"/> Git |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/> React.js | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/> JavaScript | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" width="40"/> Firebase | <img src="https://avatars.githubusercontent.com/u/50522406?s=200&v=4" width="40"/> Web3.js | <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="40"/> Docker |
 
-### **Backend & Database**  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
+---
 
-### **Blockchain & Web3**  
-![Solidity](https://img.shields.io/badge/-Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)  
-![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?style=for-the-badge&logo=ethereum)  
-![Metamask](https://img.shields.io/badge/-Metamask-F6851D?style=for-the-badge&logo=metamask)  
-
-### **Tools & DevOps**  
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)  
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman)  
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)  
+## 🏆 **Achievements & Contributions**
+| **Achievement**  | **Details**  |
+|-----------------|-------------|
+| 🚀 **Built Full Stack Web Apps** | Developed multiple full-stack applications using **MERN stack** |
+| 🎖 **Blockchain Projects** | Created Smart Contracts using Solidity & Web3.js |
+| 🏅 **Hackathon Winner** | Participated & won in college-level hackathons |
+| 👨‍💻 **Open Source Contributions** | Contributed to multiple GitHub repositories |
+| 💡 **Technical Blogger** | Writes about **Web Development & Blockchain** on Medium |
 
 ---
 
 ## 📊 **GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GaurRitika&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="400px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GaurRitika&theme=tokyonight" alt="GitHub Streak" width="400px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GaurRitika&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" width="400px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=GaurRitika&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
----
-
-## 🔗 **Connect with Me**
+### **🔥 Most Used Languages**
 <p align="center">
-<a href="https://linkedin.com/in/ritika-gaur" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:ritika.gaur2005@gmail.com">
-  <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
-<a href="https://github.com/GaurRitika" target="_blank">
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaurRitika&layout=compact&theme=radical" />
+</p>
+
+### **📈 GitHub Activity Graph**
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=GaurRitika&theme=react-dark" />
 </p>
 
 ---
 
-💖 **Thank You for Visiting!** If you like my work, consider giving a ⭐ to my repositories. 😃
+## 🎯 **What I Love Doing?**
+- 💻 **Building Scalable Web Applications**  
+- 🚀 **Exploring Blockchain & Smart Contracts**  
+- 📢 **Sharing Tech Knowledge** via Blogs & Open Source  
+- 💡 **Experimenting with New Tech Stacks**  
+- 🎨 **Designing Modern & Aesthetic UIs**  
+
+---
+
+## 📞 **Connect With Me**
+<p align="left">
+  <a href="https://www.linkedin.com/in/ritika-gaur-b40b4b298/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" />
+  </a>
+  <a href="https://github.com/GaurRitika" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg" width="40" />
+  </a>
+  <a href="mailto:ritika.gaur2005@gmail.com" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="40" />
+  </a>
+</p>
+
+---
+
+⭐ **If you like my work, feel free to give it a star!** ⭐
