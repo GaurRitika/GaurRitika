@@ -1,129 +1,95 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://github.com/kuritika098/kuritika098/blob/main/Screenshot%202024-05-08%20133310.png" width="800">
-</p>
+![logo](https://github.com/kuritika098/kuritika098/blob/main/Screenshot%202024-05-08%20133310.png)
 
 <h1 align="center">Hi 👋, I'm Ritika Gaur</h1>
-<h3 align="center"> 🚀 Full Stack & Blockchain Developer | UI/UX Enthusiast | Open Source Contributor </h3>
+<h3 align="center">A Passionate Full Stack & Blockchain Developer from India</h3>
+
+<p align="center">
+  <img src="https://img.freepik.com/free-vector/software-programmer-girl-office-work-vector-design_107791-20453.jpg?semt=ais_hybrid" width="500"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=GaurRitika&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
 ---
 
-### 🌟 **About Me**
-- 🔥 Passionate about **React, Blockchain, and UI/UX**
-- 🎯 Currently learning **Solidity & Web3.js**
-- 💡 Love designing **beautiful, interactive UI**  
-- 🏆 Built a **Social Media Dashboard & Blockchain DApp**
-- 📧 Reach me at **ritika.gaur2005@gmail.com**
-- 🔗 Connect with me:  
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritika-gaur-b40b4b298/)  
-  [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/GaurRitika)
+## 🌟 **About Me**
+- 🔥 Passionate about **Full Stack & Blockchain Development**  
+- 🛠️ Specializing in **React.js, Node.js, MongoDB, Solidity, Smart Contracts**  
+- 🌱 Currently Learning **Web3.js, Ethereum Development**  
+- 💬 Ask me about **React, JavaScript, Bootstrap, Tailwind CSS, Solidity**  
+- 📫 Contact me at **ritika.gaur2005@gmail.com**  
+- ⚡ Fun Fact: **I think I have a great sense of humor!** 😆  
 
 ---
 
-## 🎖 **My Achievements**
-| 🏅 Achievement | 📅 Year |
-|--------------|----------|
-| 🏆 Built a Full Stack Social Media Dashboard | 2024 |
-| 🎖 Won a Web Development Hackathon | 2023 |
-| 🚀 Contributed to Open Source Projects | 2023-24 |
-| 🔥 Created a Blockchain DApp | 2024 |
+## 🚀 **Tech Stack & Tools**
+| **Frontend**  | **Backend**  | **Database** | **Blockchain** | **DevOps & Tools** |
+|--------------|------------|-------------|---------------|-----------------|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/> HTML | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/> Node.js | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/> MongoDB | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" width="40"/> Solidity | <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/> Postman |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/> CSS | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"/> Express.js | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/> MySQL | <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Ethereum-icon-purple.svg" width="40"/> Ethereum | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" width="40"/> Git |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/> React.js | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/> JavaScript | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" width="40"/> Firebase | <img src="https://avatars.githubusercontent.com/u/50522406?s=200&v=4" width="40"/> Web3.js | <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="40"/> Docker |
 
 ---
 
-## 🔥 **Tech Stack**
-<table>
-  <tr>
-    <td align="center"><b>Frontend</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black">
-      <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
-      <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white">
-      <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
-      <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white">
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>Backend</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white">
-      <img src="https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white">
-      <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white">
-      <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white">
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>Blockchain</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/-Solidity-363636?style=flat&logo=solidity&logoColor=white">
-      <img src="https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat&logo=ethereum&logoColor=white">
-      <img src="https://img.shields.io/badge/-Web3.js-F16822?style=flat&logo=web3dotjs&logoColor=white">
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>Tools</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white">
-      <img src="https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white">
-      <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white">
-    </td>
-  </tr>
-</table>
+## 🏆 **Achievements & Contributions**
+| **Achievement**  | **Details**  |
+|-----------------|-------------|
+| 🚀 **Built Full Stack Web Apps** | Developed multiple full-stack applications using **MERN stack** |
+| 🎖 **Blockchain Projects** | Created Smart Contracts using Solidity & Web3.js |
+| 🏅 **Hackathon Winner** | Participated & won in college-level hackathons |
+| 👨‍💻 **Open Source Contributions** | Contributed to multiple GitHub repositories |
+| 💡 **Technical Blogger** | Writes about **Web Development & Blockchain** on Medium |
 
 ---
 
 ## 📊 **GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GaurRitika&show_icons=true&theme=radical" width="50%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GaurRitika&theme=radical" width="50%">
+  <img src="https://github-readme-stats.vercel.app/api?username=GaurRitika&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
----
-
-## 🎨 **Tech Stack Breakdown**
+### **🔥 Most Used Languages**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GaurRitika&layout=compact&theme=radical" width="50%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaurRitika&layout=compact&theme=radical" />
 </p>
 
----
-
-## 🏆 **GitHub Trophies**
+### **📈 GitHub Activity Graph**
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GaurRitika&theme=radical">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=GaurRitika&theme=react-dark" />
 </p>
 
 ---
 
-## 🚀 **Recent Projects**
-| 🌟 Project Name | 🔗 Link | 🛠️ Tech Stack |
-|---------------|----------|-------------|
-| 🚀 **Social Media Dashboard** | [GitHub](https://github.com/GaurRitika) | React, Node.js, MongoDB |
-| 💡 **Blockchain DApp** | [GitHub](https://github.com/GaurRitika) | Solidity, Web3.js, Ethereum |
-| 🛍️ **E-commerce Website** | [GitHub](https://github.com/GaurRitika) | React, Redux, Firebase |
-
----
-
-## 📌 **GitHub Contribution Graph**
+## 📊 **Skills & Proficiency**
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GaurRitika&theme=react-dark">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GaurRitika&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GaurRitika&theme=radical" />
 </p>
 
 ---
 
-## 🎵 **Spotify Now Playing**
+## 🎯 **What I Love Doing?**
+- 💻 **Building Scalable Web Applications**  
+- 🚀 **Exploring Blockchain & Smart Contracts**  
+- 📢 **Sharing Tech Knowledge** via Blogs & Open Source  
+- 💡 **Experimenting with New Tech Stacks**  
+- 🎨 **Designing Modern & Aesthetic UIs**  
+
+---
+
+## 📞 **Connect With Me**
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_id&cover_image=true&theme=default">
+  <a href="https://www.linkedin.com/in/ritika-gaur-b40b4b298/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" />
+  </a>
+  <a href="https://github.com/GaurRitika" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg" width="40" />
+  </a>
+  <a href="mailto:ritika.gaur2005@gmail.com" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="40" />
+  </a>
 </p>
 
 ---
 
-## 📫 **Get in Touch**
-📩 **Email:** ritika.gaur2005@gmail.com  
-🔗 **LinkedIn:** [ritika-gaur](https://www.linkedin.com/in/ritika-gaur-b40b4b298/)  
-👨‍💻 **GitHub:** [GaurRitika](https://github.com/GaurRitika)  
-
----
-
-### 🚀 **Fun Fact**
-> _"I turn caffeine into clean, efficient code while designing sleek UI/UX! ☕💻"_  
-
-💡 **Let’s build something amazing together! 🚀**  
+⭐ **If you like my work, feel free to give it a star!** ⭐  
