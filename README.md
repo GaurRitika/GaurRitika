@@ -18,7 +18,7 @@
 - 🛠️ Specializing in **React.js, Node.js, MongoDB, Solidity, Smart Contracts**  
 - 🌱 Currently Learning **Web3.js, Ethereum Development**  
 - 💬 Ask me about **React, JavaScript, Bootstrap, Tailwind CSS, Solidity**  
-- 📫 Contact me at **ritika.gaur2005@gmail.com**  
+- 📫 Contact me at **devritika.gaur@gmail.com**  
 - ⚡ Fun Fact: **I think I have a great sense of humor!** 😆  
 
 ---
