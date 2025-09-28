@@ -4,12 +4,6 @@
 <h3 align="center">A Passionate Full Stack & Blockchain Developer from India</h3>
 
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=GaurRitika&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
----
-
 ## 🌟 **About Me**
 - 🔥 Passionate about **Full Stack & Blockchain Development**  
 - 🛠️ Specializing in **React.js, Node.js, MongoDB, Solidity, Smart Contracts**  
