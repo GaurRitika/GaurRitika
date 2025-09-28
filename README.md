@@ -3,9 +3,6 @@
 <h1 align="center">Hi 👋, I'm Ritika Gaur</h1>
 <h3 align="center">A Passionate Full Stack & Blockchain Developer from India</h3>
 
-<p align="center">
-  <img src="https://img.freepik.com/free-vector/software-programmer-girl-office-work-vector-design_107791-20453.jpg?semt=ais_hybrid" width="500"/>
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=GaurRitika&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
