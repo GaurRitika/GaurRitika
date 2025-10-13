@@ -1,5 +1,3 @@
-![logo](https://github.com/kuritika098/kuritika098/blob/main/Screenshot%202024-05-08%20133310.png)
-
 <h1 align="center">Hi 👋, I'm Ritika Gaur</h1>
 <h3 align="center">A Passionate Full Stack & Blockchain Developer from India</h3>
 
